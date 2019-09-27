@@ -7,7 +7,7 @@ package CardGame;
 
 /**
  *
- * @author Deep
+ * @author Deep Patel and Student Number : 991547857
  */
 public class CardGame {
     private String suit; //spdes,diamonda,clubs,hearts
